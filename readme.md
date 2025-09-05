@@ -17,3 +17,4 @@ py -3.12 -m venv env
 # start my django project:
 django-admin startproject memory
 
+git remote set-url origin git@github.com:samira-dev-star/memory.git
