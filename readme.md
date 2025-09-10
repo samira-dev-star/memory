@@ -37,5 +37,5 @@ django-admin startproject memory
 - the best matches for the current user who are similar to this user either with a specific memory or MBTI type or personality should be shown here to the user. New matches can be shown based on the recent matches at the top of the accounting page and also the list of all the matches for the person wether through memory matches or with personality type matches can be recorded and saved in their panel separately.
 
 
-5. Checking application:
+5. Chatting application:
 - we should make able users through this application to initiate a chat with other people that they are matched together and also optionally we can make them able create group chat for themselves in the website and chat at the same time with each other.
