@@ -17,4 +17,25 @@ py -3.12 -m venv env
 # start my django project:
 django-admin startproject memory
 
-git remote set-url origin git@github.com:samira-dev-star/memory.git
+# which applications do we need in this project:
+1. main application 
+- in the main application we need to show some of the comments
+- write a brief and interesting description of what is the purpose of this website
+- we need to create a part for the user that leads them to create a user panel for themselves if they want to write their memory or comments and share it with others
+- this application needs the part for the users to write their ideas about this website and also a part to show the top comments about the website and show to show their experience in this website
+- ** optional** 
+
+2. comment application
+- in the comment application we need to show the comments that are saved in the database for example we can show them 10 comments per page. Or by adding a show more link when the user click on show more they can't see more comments.
+- we need a part for the user to write their comments and enter for sending it.
+
+3. ( this application is optional)MBTI test application:
+- in this application we can design a test for the users to decide about their MBTI type
+
+4. Accounting application:
+- this accounting application has all the details and information regarding the user that is signed in.
+- the best matches for the current user who are similar to this user either with a specific memory or MBTI type or personality should be shown here to the user. New matches can be shown based on the recent matches at the top of the accounting page and also the list of all the matches for the person wether through memory matches or with personality type matches can be recorded and saved in their panel separately.
+
+
+5. Checking application:
+- we should make able users through this application to initiate a chat with other people that they are matched together and also optionally we can make them able create group chat for themselves in the website and chat at the same time with each other.
